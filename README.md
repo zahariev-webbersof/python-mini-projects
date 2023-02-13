@@ -22,7 +22,7 @@
 - [Talking Bot](https://github.com/zahariev-webbersof/python-mini-projects/blob/main/speaking_news_bot.py)
 - [Take a screenshot](https://github.com/zahariev-webbersof/python-mini-projects/blob/main/take_a_screenshot.py)
 - [Text to speech](https://github.com/zahariev-webbersof/python-mini-projects/blob/main/text_to_speech.py)
-- [OOP Example](https://github.com/zahariev-webbersof/python-mini-projects)
+- [OOP Example](https://github.com/zahariev-webbersof/python-mini-projects/blob/main/class_example.py)
 
 ## Additional resources:
 - [Python](#python)
