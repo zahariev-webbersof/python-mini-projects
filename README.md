@@ -23,6 +23,7 @@
 - [Take a screenshot](https://github.com/zahariev-webbersof/python-mini-projects/blob/main/take_a_screenshot.py)
 - [Text to speech](https://github.com/zahariev-webbersof/python-mini-projects/blob/main/text_to_speech.py)
 - [OOP Example](https://github.com/zahariev-webbersof/python-mini-projects/blob/main/class_example.py)
+- [Validator credt cards](https://github.com/zahariev-webbersof/python-mini-projects/blob/main/validator_credit_cards.py)
 
 ## Additional resources:
 - [Python](#python)
