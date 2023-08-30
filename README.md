@@ -41,6 +41,3 @@ Happy coding!
 
 ## Additional resources:
 - [Python Documentation](https://docs.python.org/3/contents.html)
-
-
-
