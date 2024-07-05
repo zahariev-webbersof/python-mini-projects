@@ -38,6 +38,7 @@ Happy coding!
 - [OOP Example](https://github.com/zahariev-webbersof/python-mini-projects/blob/main/class_example.py)
 - [Validator credt cards](https://github.com/zahariev-webbersof/python-mini-projects/blob/main/validator_credit_cards.py)
 - [Web automation](https://github.com/zahariev-webbersof/python-mini-projects/blob/main/web_automation.py)
+- [Pong Game with PyGame](https://github.com/zahariev-webbersof/python-mini-projects/blob/main/pong_game.py)
 
 ## Additional resources:
 - [Python Documentation](https://docs.python.org/3/contents.html)
