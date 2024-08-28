@@ -20,7 +20,7 @@ Happy coding!
 - [WiFi scanning program](https://github.com/zahariev-webbersof/python-mini-projects/blob/main/WiFi_Scanning.py) 
 - [Basic PyScript project](https://github.com/zahariev-webbersof/python-mini-projects/blob/main/base_index.html)
 - [Simple Bitcoin non-deterministic wallet address generator](bitcoin_address.py) 
-- [Get Bitcoin price in real time](bitcoin_price.py)
+- [Get Bitcoin price in real time](bitcoin_price.py) 
 - [Get Bitcoin price using Binance API](https://github.com/zahariev-webbersof/python-mini-projects/blob/main/bitcoin_price_with_api_key.py)
 - [Text coloring Python program](https://github.com/zahariev-webbersof/python-mini-projects/blob/main/color_text.py)
 - [encrypting messages with Cryptography Python library](https://github.com/zahariev-webbersof/python-mini-projects/blob/main/cryptography.py)
