@@ -1,4 +1,4 @@
-# Documentation mini projects - Python Dev Society
+# Documentation mini projects - Python Dev Society 
 
 ![git_logo](https://user-images.githubusercontent.com/68993494/209866827-2e9629cc-3009-4e13-a7e5-202903b8702b.jpg)
 
