@@ -3,7 +3,7 @@
 ![git_logo](https://user-images.githubusercontent.com/68993494/209866827-2e9629cc-3009-4e13-a7e5-202903b8702b.jpg)
  
 Welcome to the Python Dev Society "mini projects" repository! This repository showcases a collection of small-scale projects implemented using Python, with a touch of HTML. It is a collaborative space where members of our Python Dev Society community can explore, learn, and share their coding creations.
-
+ 
 Key Features: 
 
 Python Focus: The repository primarily consists of Python projects, covering various topics and concepts within the language.
