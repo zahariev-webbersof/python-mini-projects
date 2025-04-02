@@ -5,7 +5,7 @@
 Welcome to the Python Dev Society "mini projects" repository! This repository showcases a collection of small-scale projects implemented using Python, with a touch of HTML. It is a collaborative space where members of our Python Dev Society community can explore, learn, and share their coding creations.
    
 Key Features:        
- 
+  
 Python Focus: The repository primarily consists of Python projects, covering various topics and concepts within the language.
 Diverse Range: Explore a wide range of mini projects, each offering a unique opportunity to practice your Python skills.
 HTML Integration: Alongside Python, we also incorporate HTML in some projects to create dynamic and interactive elements.
