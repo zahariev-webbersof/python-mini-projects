@@ -13,7 +13,7 @@ Learning and Collaboration: Join our community and collaborate with fellow Pytho
 Hands-on Experience: Engage in practical coding exercises and gain valuable experience by working on real-world-inspired projects.
  
 Whether you're a beginner looking to sharpen your Python skills or an experienced programmer seeking inspiration for mini projects, this repository offers a valuable resource for learning and growth. We encourage you to dive in, explore the projects, contribute your own creations, and be a part of our active Python Dev Society community.
-  
+   
 Happy coding!       
             
 ## Table of Contents: 
