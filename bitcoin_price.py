@@ -9,4 +9,4 @@ soup = bs(req.content, 'html.parser')
 price = soup.find('div', {'class': 'priceValue'})
 extract = price.select_one('span')
 
-print(f'Bitcoin price today is {extract.text} per (BTC / USD)')
+print(f'Bitcoin price today is {extract.text} per (BTC / USD)') 
