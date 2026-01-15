@@ -16,7 +16,7 @@ Whether you're a beginner looking to sharpen your Python skills or an experience
    
 Happy coding!        
                
-## Table of Contents:  
+## Table of Contents:     
 - [WiFi scanning program](https://github.com/zahariev-webbersof/python-mini-projects/blob/main/WiFi_Scanning.py) 
 - [Basic PyScript project](https://github.com/zahariev-webbersof/python-mini-projects/blob/main/base_index.html)
 - [Simple Bitcoin non-deterministic wallet address generator](bitcoin_address.py)  
